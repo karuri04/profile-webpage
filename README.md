@@ -1,2 +1,2 @@
 # profile-webpage
-This is a personal website
+This webpage describes my personal professional data, kind like a resume should
